@@ -1,0 +1,62 @@
+[
+  {
+    "department": "hospital",
+    "source": "HSP-401_employee_code_of_conduct.md",
+    "chunk_id": 1,
+    "preview": "Policy Title: Employee Code of Conduct and Onboarding\n\nPolicy ID: HSP-401 | Department: Human Resources | Effective Date: January 1, 2025\n\n1. Mandatory Requirements\n\nNew hires must complete hospital o"
+  },
+  {
+    "department": "hospital",
+    "source": "HSP-402_hipaa_patient_privacy.md",
+    "chunk_id": 1,
+    "preview": "Policy Title: HIPAA Compliance and Patient Privacy\n\nPolicy ID: HSP-402 | Department: Compliance | Effective Date: June 1, 2025\n\n1. Minimum Necessary Standard\n\nEmployees may access only the minimum PHI"
+  },
+  {
+    "department": "emergency",
+    "source": "EMG-301_emergency_triage.md",
+    "chunk_id": 1,
+    "preview": "Policy Title: Emergency Triage and ESI Protocols\n\nPolicy ID: EMG-301 | Department: Emergency | Effective Date: January 15, 2025\n\n1. Triage Timing\n\nAssessment must begin within 10 minutes of arrival us"
+  },
+  {
+    "department": "emergency",
+    "source": "EMG-302_code_blue.md",
+    "chunk_id": 1,
+    "preview": "Policy Title: Code Blue Cardiac Arrest Response\n\nPolicy ID: EMG-302 | Department: Emergency | Effective Date: May 1, 2025\n\n1. Code Blue Procedure\n\nThe designated team must arrive at the scene within 3"
+  },
+  {
+    "department": "departments",
+    "source": "DEP-202_radiology_safety.md",
+    "chunk_id": 1,
+    "preview": "Policy Title: Diagnostic Radiology Safety and MRI Protocols\n\nPolicy ID: DEP-202 | Department: Radiology | Effective Date: April 10, 2025\n\n1. Radiation Safety & ALARA\n\nAll imaging must strictly adhere "
+  },
+  {
+    "department": "departments",
+    "source": "DEP-201_pharmacy_dispensing.md",
+    "chunk_id": 1,
+    "preview": "Policy Title: Pharmacy Medication Dispensing and Controlled Substances\n\nPolicy ID: DEP-201 | Department: Pharmacy | Effective Date: February 1, 2025\n\n1. Order Verification\n\nA clinical pharmacist must "
+  },
+  {
+    "department": "admissions",
+    "source": "ADM-101_patient_intake_and_registration.md",
+    "chunk_id": 1,
+    "preview": "Policy Title: Patient Intake, Identification, and Registration\n\nPolicy ID: ADM-101 | Department: Admissions | Effective Date: January 1, 2025\n\n1. Purpose\n\nTo establish a uniform process for identifyin"
+  },
+  {
+    "department": "admissions",
+    "source": "ADM-102_financial_clearance_and_insurance.md",
+    "chunk_id": 1,
+    "preview": "Policy Title: Financial Clearance and Insurance Verification\n\nPolicy ID: ADM-102 | Department: Admissions | Effective Date: March 15, 2025\n\n1. Purpose\n\nTo outline financial verification prior to elect"
+  },
+  {
+    "department": "patient_safety",
+    "source": "SAF-501_hand_hygiene.md",
+    "chunk_id": 1,
+    "preview": "Policy Title: Hand Hygiene and Infection Control\n\nPolicy ID: SAF-501 | Department: Infection Control | Effective Date: February 15, 2025\n\n1. 5 Moments for Hand Hygiene\n\nClean hands before patient cont"
+  },
+  {
+    "department": "patient_safety",
+    "source": "SAF-502_fall_prevention.md",
+    "chunk_id": 1,
+    "preview": "Policy Title: Inpatient Fall Risk Assessment\n\nPolicy ID: SAF-502 | Department: Patient Safety | Effective Date: March 1, 2025\n\n1. Risk Assessment\n\nEvery inpatient must be evaluated using the Morse Fal"
+  }
+]
